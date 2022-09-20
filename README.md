@@ -12,14 +12,14 @@ We succeded in making a smart traffic light that is 52% more time-efficient, sin
 --- 
 
 
-## Python
-> ## **Python Lib**
+## **Python**
+> # Python Lib
 > - Mesa
 > - matplotlib
 > - numpy
 > - pandas
 
-> ### **Unity**
+## **Unity**
 > - C#
 
 
