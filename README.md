@@ -1,4 +1,4 @@
-# **Multi Agent  Project Intersection**
+# **Multi Agent Intersection Project**
 
 ## **Materia:** Multi-Agentes y Graficas
 
