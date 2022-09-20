@@ -1,6 +1,6 @@
 # **Multi Agent  Project Intersection**
 
-## **Materia:** Construcción de Software y Toma de Decisiones
+## **Materia:** Multi-Agentes y Graficas
 
 ### Introducción
 
