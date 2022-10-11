@@ -1,6 +1,6 @@
 # **Multi Agent Intersection Project**
 
-## **Materia:** Multi-Agents and Graphics
+## **Subject:** Multi-Agents Systems and Graphics
 
 ### Introducción
 
