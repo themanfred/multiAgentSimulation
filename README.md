@@ -1,8 +1,10 @@
 # **Multi Agent Intersection Project**
 
-## **Subject:** Multi-Agents Systems and Graphics
+## Multi-Agents Systems and Graphics
 
-### Introducción
+(https://github.com/themanfred/multiAgentSimulation/assets/42932766/63ed401a-4aa0-42f3-96d2-510f11c81348)
+
+### Introducción![5]
 
 We used mesa, a python library along with others, to create a multiagent simulation simulating a cross intersection between traffic lights, cars, and pedestrians. We created two simulations in python and then used unity to simulate them. The first one had a normal traffic light that changed based on constant time or the number of steps. The second one introduced an intelligent traffic light that took into account the number of pedestrians and cars.
 
